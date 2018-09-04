@@ -1,7 +1,7 @@
-# hello-world
+# self-printing-code
 ### A sample repo
 
-This *tiny* repository contains a python program which prints itself.
+This *tiny* repository contains a [python](https://www.python.org) program which prints itself.
 
 Here's a joke:
 
